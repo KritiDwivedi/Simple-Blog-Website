@@ -1,4 +1,4 @@
-This is a blog website I have built using EJS. The first page is the home page.It tells the des ription of the site along with a decent navbar which lets you to compose a blog:
+This is a blog website I have built using EJS,Html and Css. The first page is the home page.It tells the des ription of the site along with a decent navbar which lets you to compose a blog:
 ![image](https://user-images.githubusercontent.com/99080306/212735427-541bbe7d-b778-4356-8de7-3dfda1f7dd2b.png)
 
 
